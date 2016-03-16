@@ -110,7 +110,7 @@ hr {
 		margin: 0px 5px;
 	}
 	.profileSection {
-		display: auto;
+		display: block;
 		position: static;
 		float: none;
 		width: auto;
@@ -135,5 +135,5 @@ hr {
 		margin-left: 120px;
 	}
 
-	
+
 }
