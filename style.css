@@ -108,6 +108,7 @@ hr {
 	.pageWrapper {
 		width: auto;
 		margin: 0px 5px;
+		display: block;
 	}
 	.profileSection {
 		display: block;
@@ -135,6 +136,4 @@ hr {
 	.profileSectionContent {
 		margin-left: 120px;
 	}
-
-
 }
